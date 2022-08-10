@@ -3,8 +3,7 @@ var BOT_TOKEN = "5460039176:AAHkJ0bef6SxucT1i2m08fBh48PEnzGQqVk" //BOT TOKEN AND
 var SS_URL = "https://docs.google.com/spreadsheets/d/1NFdRfZm4bysN2mHFw17rjw3nnm_Y-LNJWS7FQoyE9no/edit?usp=sharing" //URL SPREADSHEET
 var SHEET_NAME = "laporan keuangan" //NAMA SHEET
 var USERS = [
-	173739838,
-	183837728
+	371091242
 ] //CHAT ID, bisa lebih dari 1
 
 
