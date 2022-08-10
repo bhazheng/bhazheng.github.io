@@ -1,6 +1,6 @@
 //CONFIG
 var BOT_TOKEN = "5460039176:AAHkJ0bef6SxucT1i2m08fBh48PEnzGQqVk" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/1NFdRfZm4bysN2mHFw17rjw3nnm_Y-LNJWS7FQoyE9no/edit?usp=sharing" //URL SPREADSHEET
+var SS_URL = "https://docs.google.com/spreadsheets/d/1NFdRfZm4bysN2mHFw17rjw3nnm_Y-LNJWS7FQoyE9no/edit#gid=0" //URL SPREADSHEET
 var SHEET_NAME = "laporan keuangan" //NAMA SHEET
 var USERS = [
 	371091242
